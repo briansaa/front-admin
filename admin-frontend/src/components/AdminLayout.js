@@ -17,7 +17,7 @@ const AdminLayout = ({ children }) => {
       </header>
       <div className="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <h1 className="display-4">Bienvenido</h1>
-        <p className="lead">Gracias por formar parte del TEAM TECSITE by Tecsup.</p>
+        <p className="lead">Gracias por formar parte del TEAM Saditec by Tecsup.</p>
       </div>
       <div className="container">
         <div className="row">
